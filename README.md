@@ -1,7 +1,7 @@
 <p align='center'>
-  <img  src="https://github.com/KKVANONYMOUS/kkvanonymous/blob/master/gifs/Developer.gif" alt="Developer gif">
+  <img  src="https://github.com/shub6059/shub6059/tree/master/gifs/Developer.gif" alt="Developer gif">
 </p>
-<h2 align="center">Hi there<img width="30px" src="https://github.com/KKVANONYMOUS/kkvanonymous/blob/master/gifs/Hi.gif">,I'm <a href="https://shub6059.github.io/portfolio">Shubham Patil</a></h2>
+<h2 align="center">Hi there<img width="30px" src="https://github.com/shub6059/shub6059/tree/master/gifs/Hi.gif">,I'm <a href="https://shub6059.github.io/portfolio">Shubham Patil</a></h2>
 <p align="center">
   <samp>
   I'm a Full Stack Web Developer and a Tech Enthusiast who loves everything which involves code💻. Currently I am pursuing MCA .I love to explore all fields related to programming especially which involves Python🐍,PHP, Linux,IOT and its modules .Apart from being a Tech Geek,I am an avid art🎨 lover and loves to try various Platform.
@@ -26,6 +26,19 @@
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="60" src="https://img.icons8.com/dusk/64/000000/php-logo.png"/></code>
+<code><img height="60" src="https://img.icons8.com/cute-clipart/64/000000/linux-client.png"/></code>
+<code><img height="60" src="https://img.icons8.com/color/48/000000/kali-linux.png"/></code>
+<code><img height="60"  src="https://img.icons8.com/color/48/000000/linux-mint.png"/></code>
+<code><img height="60" src="https://img.icons8.com/color/48/000000/centos.png"/></code>
+<code><img height="60" src="https://img.icons8.com/ios-filled/50/000000/fedora.png"/></code>
+<code><img height="60" src="https://img.icons8.com/color/48/000000/suse.png"/></code>
+<code><img height="60" src="https://img.icons8.com/color/48/000000/debian.png"/></code>
+<code><img height="60" src="https://img.icons8.com/color/48/000000/red-hat.png"/></code>
+<code><img height="60" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/></code>
+<code><img height="60" src="https://img.icons8.com/dusk/64/000000/raspberry-pi.png"/></code>
+<code><img height="60" src="https://img.icons8.com/color/48/000000/docker-container.png"/></code>
+<code></code>
+<code></code>
 </p><br>
 
 ### - Languages and Tools...
@@ -58,5 +71,5 @@
 </p>
 
 <p align="center">
-  <img src="#"><br>
+  <img src="https://github.com/shub6059/shub6059/blob/master/gifs/hadder.gif"><br>
 Made with 💖 and ☕</p>
