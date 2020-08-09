@@ -28,7 +28,6 @@
 <code><img height="60" src="https://github.com/shub6059/shub6059/blob/master/gifs/java.png"/></code>
 <code><img height="60" src="https://github.com/shub6059/shub6059/blob/master/gifs/json.png"/></code>
 <code><img height="60" src="https://github.com/shub6059/shub6059/blob/master/gifs/tc.png"/></code>
-
 <code><img height="60" src="https://img.icons8.com/dusk/64/000000/php-logo.png"/></code>
 <code><img height="60" src="https://img.icons8.com/cute-clipart/64/000000/linux-client.png"/></code>
 <code><img height="60" src="https://img.icons8.com/color/48/000000/kali-linux.png"/></code>
