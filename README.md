@@ -67,25 +67,25 @@
 </p>
 
 ### - Raspberry PI Project...
-<p align="">
+<p align="left">
 <img  src="https://github.com/shub6059/shub6059/blob/master/gifs/rpiled.gif" width="50%" height="40%"/>
+  </p>
+  <p align="right">
   <img  src="https://github.com/shub6059/shub6059/blob/master/gifs/led.gif" width="50%" height="40%"/>
+  </p>
+  <p align="left">
   <img  src="https://github.com/shub6059/shub6059/blob/master/gifs/hm.gif" width="50%" height="40%"/>
+  </p>
+  <p align="right">
   <img  src="https://github.com/shub6059/shub6059/blob/master/gifs/home.gif"width="50%" height="40%"/>
+  </p>
+  <p align="left">
     <img  src="https://github.com/shub6059/shub6059/blob/master/gifs/mobie.gif"width="50%" height="40%"/>
+  </p>
+  <p align="right">
   <img  src="https://github.com/shub6059/shub6059/blob/master/gifs/linuxboot.gif"width="50%" height="40%"/>
     </p>
-<div class="row">
-  <div class="column">
-    <img src="https://github.com/shub6059/shub6059/blob/master/gifs/rpiled.gif" alt="Snow" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="https://github.com/shub6059/shub6059/blob/master/gifs/led.gif" alt="Forest" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="https://github.com/shub6059/shub6059/blob/master/gifs/hm.gif" alt="Mountains" style="width:100%">
-  </div>
-</div>
+
 <h1 align="center">Catch Me At</h1>
 <p align="center">
 <br>
