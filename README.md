@@ -68,12 +68,12 @@
 
 ### - Raspberry PI Project...
 <p align="center">
-<img  src="https://github.com/shub6059/shub6059/blob/master/gifs/rpiled.gif" width="50%" height="50%"/>
-  <img  src="https://github.com/shub6059/shub6059/blob/master/gifs/led.gif" width="50%" height="50%"/>
-  <img  src="https://github.com/shub6059/shub6059/blob/master/gifs/hm.gif"width="50%" height="50%"/>
-  <img  src="https://github.com/shub6059/shub6059/blob/master/gifs/home.gif"/>
-    <img  src="https://github.com/shub6059/shub6059/blob/master/gifs/mobie.gif"/>
-  <img  src="https://github.com/shub6059/shub6059/blob/master/gifs/linuxboot.gif"/>
+<img  src="https://github.com/shub6059/shub6059/blob/master/gifs/rpiled.gif" width="50%" height="40%"/>
+  <img  src="https://github.com/shub6059/shub6059/blob/master/gifs/led.gif" width="50%" height="40%"/>
+  <img  src="https://github.com/shub6059/shub6059/blob/master/gifs/hm.gif"width="50%" height="40%"/>
+  <img  src="https://github.com/shub6059/shub6059/blob/master/gifs/home.gif"width="50%" height="40%"/>
+    <img  src="https://github.com/shub6059/shub6059/blob/master/gifs/mobie.gif"width="50%" height="40%"/>
+  <img  src="https://github.com/shub6059/shub6059/blob/master/gifs/linuxboot.gif"width="50%" height="40%"/>
     </p>
 
 <h1 align="center">Catch Me At</h1>
