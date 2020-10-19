@@ -69,6 +69,11 @@
 ### - Raspberry PI Project...
 <p align="center">
 <img  src="https://github.com/shub6059/shub6059/blob/master/gifs/rpiled.gif"/>
+  <img  src="https://github.com/shub6059/shub6059/blob/master/gifs/led.gif"/>
+  <img  src="https://github.com/shub6059/shub6059/blob/master/gifs/hm.gif"/>
+  <img  src="https://github.com/shub6059/shub6059/blob/master/gifs/home.gif"/>
+    <img  src="https://github.com/shub6059/shub6059/blob/master/gifs/mobie.gif"/>
+  <img  src="https://github.com/shub6059/shub6059/blob/master/gifs/linuxboot.gif"/>
     </p>
 
 <h1 align="center">Catch Me At</h1>
