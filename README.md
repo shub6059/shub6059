@@ -87,10 +87,10 @@
   <p align="right">
   <img  src="https://github.com/shub6059/shub6059/blob/master/gifs/linuxboot.gif"width="50%" height="40%"/>
     </p>
-  <p align="right">
+  <p align="left">
   <img  src="https://github.com/shub6059/shub6059/blob/master/gifs/IMG_20190513_120708843-1024x768.jpg"width="50%" height="40%"/>
   </p>
-  <p align="left">
+  <p align="right">
     <img  src="https://github.com/shub6059/shub6059/blob/master/gifs/impianto-irrigazione-raspberry-pi-gpio.jpg"width="50%" height="40%"/>
   </p>
 <h1 align="center">Catch Me At</h1>
