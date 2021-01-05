@@ -38,6 +38,8 @@
 <code><img height="60" src="https://img.icons8.com/color/48/000000/debian.png"/></code>
 <code><img height="60" src="https://img.icons8.com/color/48/000000/red-hat.png"/></code>
 <code><img height="60" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/></code>
+<code><img height="60" src="https://github.com/shub6059/shub6059/blob/master/gifs/boss.png"/></code>
+<code><img height="60" src="https://github.com/shub6059/shub6059/blob/master/gifs/garuda.png"/></code>
 <code><img height="60" src="https://img.icons8.com/dusk/64/000000/raspberry-pi.png"/></code>
 <code><img height="60" src="https://img.icons8.com/color/48/000000/docker-container.png"/></code>
 
@@ -85,7 +87,12 @@
   <p align="right">
   <img  src="https://github.com/shub6059/shub6059/blob/master/gifs/linuxboot.gif"width="50%" height="40%"/>
     </p>
-
+  <p align="right">
+  <img  src="https://github.com/shub6059/shub6059/blob/master/gifs/IMG_20190513_120708843-1024x768.jpg"width="50%" height="40%"/>
+  </p>
+  <p align="left">
+    <img  src="https://github.com/shub6059/shub6059/blob/master/gifs/impianto-irrigazione-raspberry-pi-gpio.jpg"width="50%" height="40%"/>
+  </p>
 <h1 align="center">Catch Me At</h1>
 <p align="center">
 <br>
