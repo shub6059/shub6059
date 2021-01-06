@@ -69,16 +69,21 @@
 </p>
 
 ### - Raspberry PI Project...
+
+ ### - Music Responsive LED
 <p align="left">
 <img  src="https://github.com/shub6059/shub6059/blob/master/gifs/rpiled.gif" width="50%" height="40%"/>
   </p>
+
   <p align="right">
+   ### -  Web control LED
   <img  src="https://github.com/shub6059/shub6059/blob/master/gifs/led.gif" width="50%" height="40%"/>
   </p>
   <p align="left">
   <img  src="https://github.com/shub6059/shub6059/blob/master/gifs/hm.gif" width="50%" height="40%"/>
   </p>
   <p align="right">
+   ### - HOME Automation
   <img  src="https://github.com/shub6059/shub6059/blob/master/gifs/home.gif"width="50%" height="40%"/>
   </p>
   <p align="left">
@@ -87,13 +92,14 @@
   <p align="right">
   <img  src="https://github.com/shub6059/shub6059/blob/master/gifs/linuxboot.gif"width="50%" height="40%"/>
     </p>
+     ### - Automatic watering system
   <p align="left">
   <img  src="https://github.com/shub6059/shub6059/blob/master/gifs/IMG_20190513_120708843-1024x768.jpg"width="50%" height="40%"/>
   </p>
   <p align="right">
     <img  src="https://github.com/shub6059/shub6059/blob/master/gifs/IMG_20190513_125000826-1024x768.jpg"width="50%" height="40%"/>
   </p>
-  <p> line follow car</p>
+   ### - Line follow car
    <p align="left">
   <img  src="https://github.com/shub6059/shub6059/blob/master/gifs/car.jpg"width="50%" height="40%"/>
   </p>
